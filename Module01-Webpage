@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Module 01</title>
+</head>
+<body>
+<h1>Module 01: Introductin to HTML</h1>
+  <h2> Created By: Julie Le</h2>
+  <h3>Margarita</h3>
+		<figure>
+			<img src="https://mixthatdrink.com/wp-content/uploads/2009/02/margarita-3.jpg" alt="Chocolate Islands" title="Individual Chocolate Cakes" width="500" />
+			<p>
+				<figcaption>
+					This recipe for a refreshing classic tequila margita!
+				</figcaption>
+		
+		</figure>
+		<h4>More Recipes:</h4>
+
+			<a href="http://www.myrecipes.com/recipe/bahama-mama"><img src="https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fbahama-mama-mr.jpg%3Fitok%3DZRTGOueL&w=800&q=85" alt="Bahama Mama" title="Bahama Mama" width="200" /></a>
+			<a href="https://cookieandkate.com/2017/best-moscow-mule-recipe/"><img src="https://static01.nyt.com/images/2016/07/15/dining/Mule-web2/Mule-web2-articleLarge.jpg" alt="Moscow Mule" title="Moscow Mule" width="200" /></a>
+			<a href="https://www.thespruce.com/classic-gin-martini-recipe-759739"><img src="https://fthmb.tqn.com/CAfcsOVEeACBKZ39r2wvrGnuPnk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/classic-martini-5a8f33d0a18d9e0037b52126.jpg"  alt="
+        Martini" title="Martini" width="200" /></a>
+      <a href="https://www.epicurious.com/recipes/food/views/mai-tai-230577"><img src="https://assets.epicurious.com/photos/57ab6c9e80e7d8e55a8e851f/6:4/w_620%2Ch_413/mai-tai.jpg"  alt="
+        Martini" title="Martini" width="200" /></a>
+      <a href="https://www.allrecipes.com/recipe/65037/classic-bloody-mary/"><img src="https://images.media-allrecipes.com/userphotos/560x315/5180584.jpg"  alt="
+        Martini" title="Martini" width="200" /></a>
+		
+</body>
+</html>
